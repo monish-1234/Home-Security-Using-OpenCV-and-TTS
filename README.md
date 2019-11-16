@@ -9,3 +9,7 @@ PYTTSX3 TTS Engine is used for Voice.<br>
 This code can be used to prevent unauthorised person from entry.(Ofcourse just a picture of that person is enough to gain entry.)<br>
 This is not the perfect security system , but it's a start.<br>
 Feel free to edit and develop more from this code.<br>
+
+Install libespeak if you're using Ubuntu
+
+'''sudo apt install libespeak1'''
